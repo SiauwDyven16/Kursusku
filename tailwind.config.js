@@ -19,7 +19,8 @@ module.exports = {
 
         'jauh': '11rem',
         'agakJauh' : '3.75rem',
-        'sedang' : '1.5rem',
+        'sedang' : '1.25rem',
+        'agakDeket' : '1rem',
         'deket' : '0.5rem',
         'deketBgt' : '0.25rem',
         '0.25': '0.25rem', //4px
@@ -59,7 +60,7 @@ module.exports = {
 
         pageCol : "#fafafa",
         primary : "#6744F3",
-        secondary: "#EEEEEE",
+        secondary: "#f6f6f6",
         tertiary: "#36F4A4",
         
         textCol : "#332941",
